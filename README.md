@@ -1,2 +1,1 @@
-# selenium-learning
-Different selenium python test cases
+QA automation testing
